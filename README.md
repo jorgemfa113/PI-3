@@ -8,9 +8,9 @@ FUENTE DE DATOS
 https://docs.ftx.com/#get-trades
 
 El proyecto consisitio en la elaboracions de un dashboard el cual contiene el analisis del comportamiento historico de 10 criptomonedas, para este caso fueron:
-  -Bitcoin
-  -Ethereum
-  -Solana
+*Bitcoin
+*Ethereum
+*Solana
   -BNB 
   -Ripple
   -Chainlink 
